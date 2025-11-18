@@ -30,7 +30,7 @@ Still learning, still grinding — and always excited to build real-world projec
 | **Languages** | ![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white) ![C#](https://img.shields.io/badge/C%23-512BD4?style=flat&logo=csharp&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) |
 | **Frontend Development** | ![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB) |
 | **Backend Development** | ![ASP.NET](https://img.shields.io/badge/ASP.NET-512BD4?style=flat&logo=dotnet&logoColor=white) ![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=flat&logo=nestjs&logoColor=white) ![Django](https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=white) |
-| **APIs & Databases** | ![REST API](https://img.shields.io/badge/REST_API-02569B?style=flat&logo=api&logoColor=white) ![MSSQL](https://img.shields.io/badge/SQL-CC2927?style=flat&logo=microsoftsqlserver&logoColor=white) |
+| **APIs & Databases** | ![REST API](https://img.shields.io/badge/REST_API-02569B?style=flat&logo=api&logoColor=white) ![MSSQL](https://img.shields.io/badge/MSSQL-CC2927?style=flat&logo=microsoftsqlserver&logoColor=white) |
 | **Other Skills** | Clean Code, Git/GitHub, Problem Solving |
 
 ---
