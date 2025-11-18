@@ -59,7 +59,7 @@ A financial management project focused on clean backend logic and money tracking
 
 ---
 
-## 🌐 GitHub Stats (Optional — remove if you want)
+## 🌐 GitHub Stats
 <div align="center">
   
 ![Stats](https://github-readme-stats.vercel.app/api?username=MostafaMohamed-stu&show_icons=true&theme=radical&border_radius=12)
